@@ -1,29 +1,42 @@
-# Blooket Hacks
+# **Support discord server: https://discord.gg/RTseVPF8MA**
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
+## **These bookmarklets are also on: https://schoolcheats.net/blooket**
 
-If you are a programmer and want to make your own hacks for blooket make sure to check out the [blooket wrapper](https://github.com/glixzzy/blooket-wrapper).
+# tower-of-doom
 
-**blooket hacks are located at https://schoolcheats.net/blooket**
+This cheat only works in tower of doom game mode!
 
-## How to use
+# addCoins.js
 
-Here is how to use the hacks with videos showing step-by-step how to install the hacks and how to use them.
+New scripts are at:
+https://schoolcheats.net/blooket
 
-### Console method
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [addCoins.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/addCoins.js)
 
-This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
+# lowerEnemyCharisma.js
 
-https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
+New scripts are at:
+https://schoolcheats.net/blooket
 
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [lowerEnemyCharisma.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerEnemyCharisma.js)
 
-### Bookmarklet method
-~~https://streamable.com/t4u7i7~~
+# lowerEnemyStrength.js
 
-1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
-2. Click on more at the bottom left corner
-3. Delete everything in the url box
-4. Type `javascript:`
-5. Paste in the code
+New scripts are at:
+https://schoolcheats.net/blooket
 
-https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [lowerEnemyStrength.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerEnemyStrength.js)
+
+# lowerEnemyWisdom.js
+
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [lowerEnemyWisdom.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerEnemyWisdom.js)
+
+# lowerAllEnemyStats.js
+
+New scripts are at:
+https://schoolcheats.net/blooket
+
+if https://schoolcheats.net/ is blocked for you. Get the script from the file [lowerAllEnemyStats.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-of-doom/lowerAllEnemyStats.js)
